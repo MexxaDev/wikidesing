@@ -1,0 +1,10 @@
+.multimedia{
+    background-color: rgb(240, 240, 240);
+    height: 100vh;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    padding: 16px 0px;
+    display: flex;
+    flex-direction: column;
+}

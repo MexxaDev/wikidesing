@@ -1,0 +1,19 @@
+.entrada{
+    margin-left: 18%;
+    width: 70%;
+    margin-left: 18%;
+    width: 70%;
+}
+.entrada--Titulo{
+    color: black;
+    margin-top: 30px;
+
+}
+.entrada--texto{
+    color: black;
+    margin-top: 2em;
+}
+.entrada--texto{
+    line-height: 30px;
+    width: 70%;
+}
