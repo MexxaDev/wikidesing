@@ -1,6 +1,6 @@
 .busqueda{
     height: 60px;
-    margin-left: 17%;
+    margin-left: 16%;
     margin-bottom: 2.4em;
 
 }
@@ -15,6 +15,6 @@
 }
 .busqueda--contBuscador__buscador{
     padding: 1.4em;
-    width: 78%;
+    width: 77%;
     border: 3px solid rgba(128, 128, 128, 0.068);
 }
